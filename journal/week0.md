@@ -7,7 +7,7 @@
 
 ## Created AWS Budgets and set a billing alarm via the gitpod CLI
 
-[Budgets image](journal/assets/aws-budgets.png)
+[Budgets image](assets/aws-budgets.png)
 
 ## Created the Architectural Logical Diagram for the Cruddor App
 
