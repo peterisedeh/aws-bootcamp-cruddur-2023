@@ -4,7 +4,8 @@
 
 - installed the aws cli in gitpod and set up a json script to auto install the aws cli everytime a new gitpod environment is launched.
 - Created a new user and generated AWS credentials
-- Enabled AWS Billing and set a billing alarm via the gitpod cli
+
+## Created AWS Budgets and set a billing alarm via the gitpod cli
 
 
 ## Created the Architectural Logical Diagram for the Cruddor App
