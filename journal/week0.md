@@ -1,12 +1,13 @@
 # Week 0 — Billing and Architecture
 
-## installed aws cli in gitpod
+## Installed AWS CLI in gitpod
 
-- installed the aws cli in gitpod and set up a json script to auto install the aws cli everytime a new gitpod environment is launched.
+- installed the AWS CLI in gitpod and set up a json script to auto install the aws cli everytime a new gitpod environment is launched.
 - Created a new user and generated AWS credentials
 
-## Created AWS Budgets and set a billing alarm via the gitpod cli
+## Created AWS Budgets and set a billing alarm via the gitpod CLI
 
+[Budgets image](journal/assets/aws-budgets.png)
 
 ## Created the Architectural Logical Diagram for the Cruddor App
 
